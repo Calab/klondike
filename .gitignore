@@ -3,6 +3,7 @@
 !/csd-klondike.py
 !/resources
 !/requirements.txt
+!/license.txt
 !/*.ico
 !*icon.png
 !.gitignore
